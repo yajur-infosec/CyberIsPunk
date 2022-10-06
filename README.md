@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @CyberIsPunk
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Web Development
+- 🌱 I am a Website Designer
 - 💞️ I’m looking to collaborate on Python
-- 📫 How to reach me ...
+- 📫 Check my website - yajursharma.in
 
 <!---
 CyberIsPunk/CyberIsPunk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
