@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CyberIsPunk
+- 👋 Hi, I’m @yajur-infosec
 - 👀 I’m interested in Coding
 - 🌱 I am a Website Designer
 - 💞️ I’m looking to collaborate on Python
